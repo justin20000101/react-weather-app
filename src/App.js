@@ -5,6 +5,7 @@ export default function App() {
 		<Fragment>
 			<h2>
 				Hello world! Justin campbell
+				Welcome, campbelljustin451@gamil.com
 			</h2>
 		</Fragment>
 	)
